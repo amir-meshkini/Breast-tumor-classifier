@@ -5,4 +5,11 @@ Achieving high accuracy in the field of healthcare is of paramount importance am
 
 In this project, while the main goal was to achieve the highest possible accuracy, efforts were also made to minimize the required computational capacity.
 
-The final model is able to predict whether a detected breast tumor is malignant with a high accuracy exceeding 99 percent, using only 26 percent of the original dataset.
+The final model is able to predict whether a detected breast tumor is malignant with a high accuracy exceeding 99 percent. 
+
+By applying some feature engineering methods the model could perform pretty well by having only half of the original data. 
+
+| Data size | Accuracy | 
+| :------ | :---------: | 
+| `100%` | 99.1% |
+| `50%` | 98.2% | 
